@@ -4,7 +4,7 @@
 
 ---
 
-### 📌 About Me (关于我)
+### 📌 About Me 
 - 🎓 **Undergraduate Student** majoring in **Electrical & Electronic Engineering (EEE)**.
 - ⚡ Focused on **Circuit Analysis**, **Digital Logic & TTL Circuits**, **Electromagnetics**, and **Power Systems**.
 - 🛠️ Actively exploring magnetic circuits, transformer dynamics, hardware design, and simulation.
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Engineering Skills (技术栈与工程技能)
+### 🛠️ Tech Stack & Engineering Skills 
 
 #### ⚡ Engineering, Simulation & Tools
 <p>
@@ -34,11 +34,10 @@
 
 ---
 
-### 📊 GitHub Stats (动态看板)
+### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yushilin0221&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yushilin0221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yushilin0221&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
